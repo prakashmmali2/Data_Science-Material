@@ -1,0 +1,17 @@
+
+Model Using for BostenHousing Estatse
+
+1. Using Linear Regression : 
+            Mean of Scores :  4.895458953767242
+            Standard Deviation of Scores :  0.6819992021425461
+
+
+2. DecisionTree Method :
+        Mean of Scores :  4.8395248307972665
+        Standard Deviation of Scores :  1.2300344620986632
+
+
+3. Random Forest Regression:
+        Mean of Scores :  3.2421112854435217
+        Standard Deviation of Scores :  0.674077017742436
+
